@@ -1,5 +1,5 @@
 #### 氦。
-<img src="https://github-readme-stats.vercel.app/api?username=simonire&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true" align="right">
+[<img src="https://github-readme-stats.vercel.app/api?username=simonire&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true" align="right">]: <>
 
 ### 👋关于我 
 
@@ -13,7 +13,7 @@
 
 ### 🗓项目施工(更新时间:2022.9.1)
 |事项|优先级|时间|备注|
-|:----:|:----:|:----:|:----:|
+|:----|:----:|:----:|:----:|
 |1.CAN控制器流片验证|高|～||
 |2.RTD IC SCH绘制|中|～||
 |3.LCD横屏驱动板代码|低|～||
