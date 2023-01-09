@@ -6,7 +6,7 @@
 
 ### 👋关于我 
 
-+ ![PCB](https://img.shields.io/badge/-PCB-lightgrey) ：![Dart](https://img.shields.io/badge/-Altium-%2302569B.svg?style=for-the-badge&logo=Altium_Designer&logoColor=%23F7DF1E)
++ ![PCB](https://img.shields.io/badge/-PCB-lightgrey) ：![Dart](https://img.shields.io/badge/-Altium-%2302569B.svg?style=for-the-badge&logo=AltiumDesigner&logoColor=%23F7DF1E)
  ![Dart](https://img.shields.io/badge/-LCEDA_Pro-ff69b4?style=for-the-badge&logo=Jameson&logoColor=white) ![Dart](https://img.shields.io/badge/-Cadence_SPB-yellow?style=for-the-badge&logo=Allegro&logoColor=white)
 
 + ![MCU](https://img.shields.io/badge/-MCU-lightgrey)  ：![Dart](https://img.shields.io/badge/-C-%2300ADD8.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python&logoColor=white)
