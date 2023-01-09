@@ -6,13 +6,13 @@
 
 ### 👋关于我 
 
-+ 【PCB】 ：![Dart](https://img.shields.io/badge/-Altium-%2302569B.svg?style=for-the-badge&logo=Altium Designer&logoColor=%23F7DF1E)![Dart](https://img.shields.io/badge/-LCEDA Pro -ff69b4?style=for-the-badge&logo=Jameson&logoColor=white)![Dart](https://img.shields.io/badge/-Cadence SPB-yellow?style=for-the-badge&logo=Allegro&logoColor=white)
++ 【PCB】 ：![Dart](https://img.shields.io/badge/-Altium-%2302569B.svg?style=for-the-badge&logo=Altium Designer&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/-LCEDA Pro -ff69b4?style=for-the-badge&logo=Jameson&logoColor=white) ![Dart](https://img.shields.io/badge/-Cadence SPB-yellow?style=for-the-badge&logo=Allegro&logoColor=white)
 
-+ 【MCU】 ：![Dart](https://img.shields.io/badge/-C-%2300ADD8.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E)![Dart](https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python&logoColor=white)
++ 【MCU】 ：![Dart](https://img.shields.io/badge/-C-%2300ADD8.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python&logoColor=white)
 
 + 【FPGA】：![Dart](https://img.shields.io/badge/-Verilog-blue?style=for-the-badge&logo=velog&logoColor=white)
 
-+ 【IC 验证】：![Dart](https://img.shields.io/badge/-System Verilog-blueviolet?style=for-the-badge&logo=Simkl&logoColor=white)![Dart](https://img.shields.io/badge/-UVM-success?style=for-the-badge&logo=Udemy&logoColor=white)
++ 【IC 验证】：![Dart](https://img.shields.io/badge/-System Verilog-blueviolet?style=for-the-badge&logo=Simkl&logoColor=white) ![Dart](https://img.shields.io/badge/-UVM-success?style=for-the-badge&logo=Udemy&logoColor=white)
 
   
 
