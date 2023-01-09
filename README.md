@@ -6,15 +6,14 @@
 
 ### 👋关于我 
 
-+ 【PCB】 ：![Dart](https://img.shields.io/badge/-Altium-%2302569B.svg?style=for-the-badge&logo=Altium_Designer&logoColor=%23F7DF1E) 
-![Dart](https://img.shields.io/badge/-LCEDA_Pro-ff69b4?style=for-the-badge&logo=Jameson&logoColor=white) 
-![Dart](https://img.shields.io/badge/-Cadence_SPB-yellow?style=for-the-badge&logo=Allegro&logoColor=white)
++ ![PCB](https://img.shields.io/badge/-PCB-lightgrey) ：![Dart](https://img.shields.io/badge/-Altium-%2302569B.svg?style=for-the-badge&logo=Altium_Designer&logoColor=%23F7DF1E)
+ ![Dart](https://img.shields.io/badge/-LCEDA_Pro-ff69b4?style=for-the-badge&logo=Jameson&logoColor=white) ![Dart](https://img.shields.io/badge/-Cadence_SPB-yellow?style=for-the-badge&logo=Allegro&logoColor=white)
 
-+ 【MCU】 ：![Dart](https://img.shields.io/badge/-C-%2300ADD8.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python&logoColor=white)
++ ![MCU](https://img.shields.io/badge/-MCU-lightgrey)  ：![Dart](https://img.shields.io/badge/-C-%2300ADD8.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python&logoColor=white)
 
-+ 【FPGA】：![Dart](https://img.shields.io/badge/-Verilog-blue?style=for-the-badge&logo=velog&logoColor=white)
++ ![FPGA](https://img.shields.io/badge/-FPGA-lightgrey) ：![Dart](https://img.shields.io/badge/-Verilog-blue?style=for-the-badge&logo=velog&logoColor=white)
 
-+ 【IC 验证】：![Dart](https://img.shields.io/badge/-System_Verilog-blueviolet?style=for-the-badge&logo=Simkl&logoColor=white) ![Dart](https://img.shields.io/badge/-UVM-success?style=for-the-badge&logo=Udemy&logoColor=white)
++ ![IC](https://img.shields.io/badge/-IC-lightgrey) ：![Dart](https://img.shields.io/badge/-System_Verilog-blueviolet?style=for-the-badge&logo=Simkl&logoColor=white) ![Dart](https://img.shields.io/badge/-UVM-success?style=for-the-badge&logo=Udemy&logoColor=white)
 
   
 
@@ -27,7 +26,7 @@
 |事项|优先级|时间|备注|
 |:----|:----:|:----:|:----:|
 |1.毕业论文架构设计|高|～||
-|2.RTD IC Code编写|中|～||
+|2.RTD IC Code编写|低|～||
 |3.HDMI2.1 -> EDP|中|～||
 |4.USBC协议研究 |中|～||
 
