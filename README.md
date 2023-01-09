@@ -6,7 +6,7 @@
 
 ### 👋关于我 
 
-+ 【PCB】 ：![Dart](https://img.shields.io/badge/-Altium-%2302569B.svg?style=for-the-badge&logo=Altium Designer&logoColor=%23F7DF1E) 
++ 【PCB】 ：![Dart](https://img.shields.io/badge/-Altium -%2302569B.svg?style=for-the-badge&logo=Altium Designer&logoColor=%23F7DF1E) 
 ![Dart](https://img.shields.io/badge/-LCEDA_Pro-ff69b4?style=for-the-badge&logo=Jameson&logoColor=white) 
 ![Dart](https://img.shields.io/badge/-Cadence_SPB-yellow?style=for-the-badge&logo=Allegro&logoColor=white)
 
@@ -14,12 +14,12 @@
 
 + 【FPGA】：![Dart](https://img.shields.io/badge/-Verilog-blue?style=for-the-badge&logo=velog&logoColor=white)
 
-+ 【IC 验证】：![Dart](https://img.shields.io/badge/-System Verilog-blueviolet?style=for-the-badge&logo=Simkl&logoColor=white) ![Dart](https://img.shields.io/badge/-UVM-success?style=for-the-badge&logo=Udemy&logoColor=white)
++ 【IC 验证】：![Dart](https://img.shields.io/badge/-System_Verilog-blueviolet?style=for-the-badge&logo=Simkl&logoColor=white) ![Dart](https://img.shields.io/badge/-UVM-success?style=for-the-badge&logo=Udemy&logoColor=white)
 
   
 
 ### 🔗了解更多
-+ <a href="https://oshwhub.com/lemon_wifi"><img src="https://img.shields.io/badge/-OSHWHub | 立创开源平台-9cf?style-flat--square&logo=Hexo&logoColor=white"></a><a href="https://oshwhub.com/lemon_wifi"><img src="https://img.shields.io/badge/-website URL | 主页-blueviolet?style-flat--square&logo=Weblate&logoColor=white"></a><a href="mailto:simonire@qq.com"><img src="https://img.shields.io/badge/-Email | 邮箱-orange?style-flat--square&logo=Gmail&logoColor=white"></a>
++ <a href="https://oshwhub.com/lemon_wifi"><img src="https://img.shields.io/badge/-OSHWHub | 立创开源平台-9cf?style-flat--square&logo=Hexo&logoColor=white"></a><a href="www.simonire.com"><img src="https://img.shields.io/badge/-website URL | 主页-blueviolet?style-flat--square&logo=Weblate&logoColor=white"></a><a href="mailto:simonire@qq.com"><img src="https://img.shields.io/badge/-Email | 邮箱-orange?style-flat--square&logo=Gmail&logoColor=white"></a>
 
 
 
