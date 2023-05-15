@@ -1,13 +1,12 @@
 #### 氦。
 
-> HDMI、DP、MIPI、LVDS接口转换。
-
-<img src="https://github-readme-stats.vercel.app/api?username=simonire&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true" align="right">
+> HDMI、DP、、eDP、MIPI、LVDS、USBC接口转换。
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonire&hide=HTML,Tcl,Shell,javascript,VHDL,SystemVerilog,Assembly,Processing,Objective-C,BatchFile,Stata,GLSL,CMAKE&langs_count=10&theme=tokyonight&locale=cn&include_all_commits=tree&hide_border=tree&layout=compact" />]:<>
 
 
 ### 👋关于我 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=simonire&show_icons=true&theme=light&hide=contribs,issues&count_private=true&include_all_commits=true&hide_border=tree&locale=cn" />
 
 + ![PCB](https://img.shields.io/badge/-PCB-lightgrey) ：![Dart](https://img.shields.io/badge/-Altium-%2302569B.svg?style-flat--square&logo=AltiumDesigner&logoColor=%23F7DF1E)
  ![Dart](https://img.shields.io/badge/-LCEDA_Pro-ff69b4?style-flat--square&logo=Jameson&logoColor=white) ![Dart](https://img.shields.io/badge/-Cadence_SPB-yellow?style-flat--square&logo=Allegro&logoColor=white)
